@@ -1,2 +1,2 @@
-<?php
+<?php sss
 phpInfo>
